@@ -1,0 +1,6 @@
+{
+  "name": "Gesture Particle Controller",
+  "description": "An interactive, AI-powered 3D particle system controlled in real-time by hand gestures using MediaPipe and Three.js.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
